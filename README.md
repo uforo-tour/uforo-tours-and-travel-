@@ -1,4 +1,5 @@
-# uforo-tours-and-travel-<!DOCTYPE html><html lang="en">
+# uforo-tours-and-travel
+<!DOCTYPE html><html lang="en">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -11,7 +12,8 @@
       color: #333;
     }
     header {
-      background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url(nakupenda-sandbank.jpg      background-size: cover);
+      background: linear-gradient(rgba(0,0,0,0.45), rgba(0,0,0,0.45)), url('safari-blue.jpg');
+      background-size: cover;
       background-position: center;
       color: #fff;
       padding: 80px 20px;
@@ -140,14 +142,32 @@
     </div>
   </section>  <section id="gallery">
     <h2>Tour Gallery</h2>
-    <p>Experience Zanzibar through our most popular tours and destinations.</p>
+    <p>Real experiences from our Zanzibar tours with happy guests.</p>
     <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(250px,1fr));gap:15px;margin-top:30px;">
-      <img src="https://images.unsplash.com/photo-1507525428034-b723cf961d3e" alt="Zanzibar Beach" style="width:100%;border-radius:10px;" />
-      <img src="https://images.unsplash.com/photo-1526778548025-fa2f459cd5c1" alt="Safari Blue Zanzibar" style="width:100%;border-radius:10px;" />
-      <img src="https://images.unsplash.com/photo-1541417904950-b855846fe074" alt="Stone Town Zanzibar" style="width:100%;border-radius:10px;" />
-      <img src="https://images.unsplash.com/photo-1500530855697-b586d89ba3ee" alt="Snorkeling Mnemba" style="width:100%;border-radius:10px;" />
-      <img src="https://images.unsplash.com/photo-1502082553048-f009c37129b9" alt="Dhow Sunset Cruise" style="width:100%;border-radius:10px;" />
-      <img src="https://images.unsplash.com/photo-1518684079-3c830dcef090" alt="Spice Farm Zanzibar" style="width:100%;border-radius:10px;" />
+      <figure>
+        <img src="safari-blue.jpg" alt="Safari Blue Sandbank Zanzibar" style="width:100%;border-radius:10px;" />
+        <figcaption>Safari Blue – Sandbank Experience</figcaption>
+      </figure>
+      <figure>
+        <img src="spice-farm.jpg" alt="Spice Farm Tour Zanzibar" style="width:100%;border-radius:10px;" />
+        <figcaption>Spice Farm Cultural Tour</figcaption>
+      </figure>
+      <figure>
+        <img src="prison-island.jpg" alt="Prison Island Zanzibar" style="width:100%;border-radius:10px;" />
+        <figcaption>Prison Island Visit</figcaption>
+      </figure>
+      <figure>
+        <img src="tortoise.jpg" alt="Prison Island Giant Tortoise" style="width:100%;border-radius:10px;" />
+        <figcaption>Giant Tortoises – Prison Island</figcaption>
+      </figure>
+      <figure>
+        <img src="mnemba-snorkeling.jpg" alt="Mnemba Island Snorkeling" style="width:100%;border-radius:10px;" />
+        <figcaption>Mnemba Island Snorkeling</figcaption>
+      </figure>
+      <figure>
+        <img src="stone-town.jpg" alt="Stone Town Zanzibar" style="width:100%;border-radius:10px;" />
+        <figcaption>Stone Town Historical Tour</figcaption>
+      </figure>
     </div>
   </section>  <section class="cta">
     <h2>Plan Your Trip Today</h2>
