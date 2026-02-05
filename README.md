@@ -11,8 +11,7 @@
       color: #333;
     }
     header {
-      background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('https://images.unsplash.com/photo-1549880338-65ddcdfd017b');
-      background-size: cover;
+      background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url(nakupenda-sandbank.jpg      background-size: cover);
       background-position: center;
       color: #fff;
       padding: 80px 20px;
