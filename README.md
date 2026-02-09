@@ -144,8 +144,7 @@
     <p>Real experiences from our Zanzibar tours with happy guests.</p>
     <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(250px,1fr));gap:15px;margin-top:30px;">
       <figure>/<turbo-frame id="repo-content-turbo-frame" target="_top" data-turbo-action="advance" class="" src="https://github.com/uforo-tour/uforo-tours-and-travel-/blob/main/dolphin-watching-swimming.jpg" complete="">
-
-<react-app app-name="react-code-view" initial-path="/uforo-tour/uforo-tours-and-travel-/blob/main/dolphin-watching-swimming.jpg" style="display: block; min-height: calc(100vh - 64px);" data-attempted-ssr="true" data-ssr="true" data-lazy="false" data-alternate="false" data-data-router-enabled="false" data-react-profiling="true" data-catalyst="" class="loaded">
+/html/body/div[1]/div[6]/div/main/turbo-frame/div/div/div/div[1]/react-partial/div/div/div[3]/div[1]/table/tbody/tr[6]/td[2]/div/div/div/div/a<react-app app-name="react-code-view" initial-path="/uforo-tour/uforo-tours-and-travel-/blob/main/dolphin-watching-swimming.jpg" style="display: block; min-height: calc(100vh - 64px);" data-attempted-ssr="true" data-ssr="true" data-lazy="false" data-alternate="false" data-data-router-enabled="false" data-react-profiling="true" data-catalyst="" class="loaded">
   
 </react-app>
 </turbo-frame>        <figcaption>Safari Blue – Sandbank Experience</figcaption>
