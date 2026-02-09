@@ -143,8 +143,8 @@
     <h2>Tour Gallery</h2>
     <p>Real experiences from our Zanzibar tours with happy guests.</p>
     <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(250px,1fr));gap:15px;margin-top:30px;">
-      <figure>
-        <img src="safari-blue.jpg" alt="Safari Blue Sandbank Zanzibar" style="width:100%;border-radius:10px;" />
+      <figure>/
+        html/body/div[1]/div[6]/div/main/turbo-frame/div/div/div/div/div[1]/react-partial/div/div/div[3]/div[1]/table/tbody/tr[10]/td[3]/div/div/a        <img src="safari-blue.jpg" alt="Safari Blue Sandbank Zanzibar" style="width:100%;border-radius:10px;" />
         <figcaption>Safari Blue – Sandbank Experience</figcaption>
       </figure>
       <figure>
