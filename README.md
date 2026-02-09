@@ -144,31 +144,25 @@
     <p>Real experiences from our Zanzibar tours with happy guests.</p>
     <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(250px,1fr));gap:15px;margin-top:30px;">
       <figure>/<turbo-frame id="repo-content-turbo-frame" target="_top" data-turbo-action="advance" class="" src="https://github.com/uforo-tour/uforo-tours-and-travel-/blob/main/dolphin-watching-swimming.jpg" complete="">
-  <a title="Dolphins-of-Mnemba.jpg" aria-label="Dolphins-of-Mnemba.jpg, (File)" class="Link--primary" href="/uforo-tour/uforo-tours-and-travel-/blob/main/Dolphins-of-Mnemba.jpg" data-discover="true">Dolphins-of-Mnemba.jpg</a></react-app>
 </turbo-frame>        <figcaption>Safari Blue – Sandbank Experience</figcaption>
       </figure>
       <figure>
         <figcaption>Spice Farm Cultural Tour</figcaption>
       </figure>
       <figure>
-        <img src="prison-island.jpg" alt="Prison Island Zanzibar" style="width:100%;border-radius:10px;" />
-        <figcaption>Prison Island Visit</figcaption>
       </figure>
       <figure>
       </figure>
-        <img src="tortoise.jpg" alt="Prison Island Giant Tortoise" style="width:100%;border-radius:10px;" />
         <figcaption>Giant Tortoises – Prison Island</figcaption>
       </figure>
       <figure>
         <img src="mnemba-snorkeling.jpg" alt="Mnemba Island Snorkeling" style="width:100%;border-radius:10px;" />
         <figcaption>Mnemba Island Snorkeling</figcaption>
       </figure>
-      <a title="dolphin-watching-swimming.jpg" aria-label="dolphin-watching-swimming.jpg, (File)" class="Link--primary" href="/uforo-tour/uforo-tours-and-travel-/blob/main/dolphin-watching-swimming.jpg" data-discover="true">dolphin-watching-swimming.jpg</a>      <a title="Mnemba-Island-Zanzibar-4.jpg" aria-label="Mnemba-Island-Zanzibar-4.jpg, (File)" class="Link--primary" href="/uforo-tour/uforo-tours-and-travel-/blob/main/Mnemba-Island-Zanzibar-4.jpg" data-discover="true">Mnemba-Island-Zanzibar-4.jpg</a>      <figure>
         <img src="stone-town.jpg" alt="Stone Town Zanzibar" style="width:100%;border-radius:10px;" />
         <figcaption>Stone Town Historical Tour</figcaption>
       </figure>
     </div>
-  </section>  <section class="cta">
     <h2>Plan Your Trip Today</h2>
     <p>Contact us now for customized tours and the best Zanzibar experience.</p>
     <a href="#contact">Get in Touch</a>
