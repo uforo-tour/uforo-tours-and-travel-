@@ -148,7 +148,6 @@
 </turbo-frame>        <figcaption>Safari Blue – Sandbank Experience</figcaption>
       </figure>
       <figure>
-        <img src="spice-farm.jpg" alt="Spice Farm Tour Zanzibar" style="width:100%;border-radius:10px;" />
         <figcaption>Spice Farm Cultural Tour</figcaption>
       </figure>
       <figure>
