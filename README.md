@@ -163,7 +163,7 @@
         <img src="mnemba-snorkeling.jpg" alt="Mnemba Island Snorkeling" style="width:100%;border-radius:10px;" />
         <figcaption>Mnemba Island Snorkeling</figcaption>
       </figure>
-      <figure>
+      <a title="Mnemba-Island-Zanzibar-4.jpg" aria-label="Mnemba-Island-Zanzibar-4.jpg, (File)" class="Link--primary" href="/uforo-tour/uforo-tours-and-travel-/blob/main/Mnemba-Island-Zanzibar-4.jpg" data-discover="true">Mnemba-Island-Zanzibar-4.jpg</a>      <figure>
         <img src="stone-town.jpg" alt="Stone Town Zanzibar" style="width:100%;border-radius:10px;" />
         <figcaption>Stone Town Historical Tour</figcaption>
       </figure>
